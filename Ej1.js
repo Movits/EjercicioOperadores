@@ -1,7 +1,7 @@
-var HechizosTotal = 15;
-var HechizosJerry = 13;
-var HechizosTom = 12;
-var HechizosMin = HechizosTotal * 80 / 100;
+let HechizosTotal = 15;
+let HechizosJerry = 13;
+let HechizosTom = 12;
+let HechizosMin = HechizosTotal * 80 / 100;
 
 console.log("Los hechizos minimos requeridos para aprobar son: " + HechizosMin);
 
